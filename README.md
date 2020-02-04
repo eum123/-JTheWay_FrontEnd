@@ -1,6 +1,4 @@
-# JTheWay_BackEnd
-JTheWay back-end 
+# JTheWay_FrontEnd
+JTheWay Front-end 
 
-- JDK 1.8 (open JDK 포함)
-- SpringBoot 1.5.1
-- MySQL 5.X
+- Vue
