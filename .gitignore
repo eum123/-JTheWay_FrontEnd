@@ -1,20 +1,14 @@
-*/logs/*
-*/logs/*.log
-*.log
-*.jar
-target/*
-target/classes/*
-*.iml
-*.txt
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# OS
-*DS_Store*
-
-# IDE
-.buildpath
-.project
+# Editor directories and files
 .idea
-.settings/
-/target/
-.classpath
-.tern-project
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

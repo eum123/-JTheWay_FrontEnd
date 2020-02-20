@@ -2,6 +2,20 @@
 
 > JTheWay_FrontEnd
 
+## 설정
+``` bash
+# npm 및 node.js 설치
+[node.js](https://nodejs.org/ko/) 다운로드 후 설치
+
+#vue 설치
+npm isntall vue
+
+# vue 버전 확인
+vue --version
+
+
+```
+
 ## Build Setup
 
 ``` bash
