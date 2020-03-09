@@ -2,6 +2,12 @@
 
 > JTheWay_FrontEnd
 
+## 참고
+```
+# vue.js 설치
+https://k39335.tistory.com/64
+```
+
 ## 설정
 ``` bash
 # npm 및 node.js 설치
